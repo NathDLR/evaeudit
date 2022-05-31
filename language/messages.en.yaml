@@ -1,0 +1,266 @@
+# A trier
+
+Audit report: Audit report
+Version: Version
+Confidential document: Confidential document on
+Situation: Situation
+Corrective action: Corrective action
+Additional comment: Additional comment
+Schedule: Schedule
+No comment: No comment
+Yes: yes
+No: No
+Creation date: Creation date
+Sending date: Sending date
+AR: AR
+Ready to leave: Ready to leave
+Logout text: Select "Logout" below if you are ready to end your current session.
+Cancel: Cancel
+Risk info : "Information: Any rating level obtained does not constitute a denial of certification. "
+Username: Username
+Status: Status
+Evaluation method: Evaluation method
+Comment: Comment
+Correction: Correction
+Supplement: Supplement
+History: History
+Limit date: Limit date
+First generation: First generation
+Problem already encountered: Problem that has already been requested
+Click here: Click here
+CAPA sheet: CAPA sheet
+Change status: Change status
+Risk notation: Risk notation
+No details: No details
+Page: Page
+Archived reports: Archived reports
+See report: See report
+Assigned audit : You have been assigned an audit
+Audit sent: An audit has been sent to you
+CAPA of ref: CAPA sheet of the reference
+Identification: Identification
+Evaluation date: Evaluation dat
+Major non-conformity list: List of major non-conformities requiring mandatory corrective action
+Type: Type
+Grid ref: Grid reference
+Criterion: Criterion
+Obtained result: Obtained result
+Due date: Due date
+Operator return: Operator's return
+Return date: Return date
+Manager: Manager
+Eve liberation: Liberation by EVE
+Eve exam: EVE review
+Download: Download
+Completion: "Remaining fields to be filled : "
+Report creation: Report creation
+Audit order: AUDIT ORDER
+Order Form: Audit orders
+Contact: Contact
+Audit order ref: Audit-Order
+
+# Order
+
+Command date: Order date
+Prestation type: Type of service(s)
+Certification type: Kind of certification
+Head office address: Registered office address
+Client name: Client name
+Site to audit: Place of manufacturing to be audited
+Scope: Scope(s) of activity
+Audit duration: Audit time scheduled
+Expected report: Expected report(s)
+Requested period: Requested period
+EVE officer: EVE Certification Officer
+
+# Login
+
+Welcome: Welcome !
+Online Audit: EVE VEGAN® - Online audit report
+Enter username: Enter username
+Enter password: Enter password
+Login: Login
+Logout: Logout
+
+# Footer
+
+EVE: EXPERTISE VEGANE EUROPE
+Legals: All rights reserved | Legal mensions
+
+# 404
+
+Page not found: Page not found
+
+# Common Sidebar
+
+Home: Home
+
+# Auditor Sidebar
+
+Create report: Create a report
+
+# Admin Sidebar
+
+Manage users: Manage users
+Manage auditors: Manage auditors
+Assign report: Assign a report
+Create auditor: Create an auditor
+
+# Audit Sidebar
+Ongoing report: Ongoing report
+
+Intro: Introduction
+Risk rating: Risk rating
+Audit grid: Audit grid
+Conclusion: Conclusion
+Finalize report: Finalize report
+Finalize: Finalize
+Finalization: Finalization
+
+# Admin home
+
+My reports: My reports
+
+# Accueil auditeur
+
+Ongoing reports: Ongoing reports
+Sent reports: Sent reports
+
+# Liste des audits
+
+Details: Details
+Edit: Edit
+Delivered by auditor: Delivered by the auditor
+Under review: Under review
+Non conformity: Non-conformity
+Closed: Closed
+Archived: Archived
+
+# Commun a toutes les étapes de l'audit
+
+Save: Save
+Next: Next
+Previous: Previous
+
+# Introduction
+
+Client number: Client code
+Company name: Name of the company
+Head office: Head office
+Audited sites: Audited site(s)
+Date: Date of assessment
+Starting hour: Start time of the audit
+End hour: End time of the audit
+Total time: Total time
+Service: Service
+Standard: Certification according to the EVE VEGAN® standard
+Controlled activities: Activities subject to the audit
+
+Structure: Type of business
+Select structure: Select a structure type
+Vegan activity: 100% VEGAN activity
+Mixed activity: Mixed activity
+
+Outsourcing: Outsourcing
+Select outsourcing: Select an option
+Uses subcontracting:  Uses sub-contractors
+Works as subcontractor: Works as a subcontractor
+Not concerned: Not concerned
+
+Audit type: Type of audit
+Select audit type: Sélectionnez an option
+With appointment: With an appointment
+Without appointment: Without appointment
+Initial check: Initial check
+Renewal audit:  Renewal audit
+Unannounced check: Unannounced check
+
+Auditor: Auditor
+Auditors: Auditor(s)
+Co-auditor: Co-auditor(s)
+Certification officer: Certification officer
+Participants: Participants
+Name: Name
+Firstname: Firstname
+Function: Function
+Opening meeting: Opening meeting
+Document review: Document review
+Field inspection: Field inspection
+Closing meeting: Closing meeting
+
+# Cotation des risques
+
+Ref: Item N°
+Production conditions: Manufacturing conditions of the vegan product
+Result: Result
+Note: Score
+Contamination: Contamination possible crossover with...
+Auditor comment: Auditor's comment
+Low risk: Low risk
+Minor danger: Minor danger
+Moderate danger: Moderate danger
+Priority risk: Priority risk
+Total: Total
+
+# Grille d'audit
+
+Requirements: Requirements
+Scoring method: Scoring method
+Major: Major
+Score: Score
+Pts: Pts
+
+#Conclusion
+
+Audit total: Total of the audit
+Scoring rate: Scoring rate
+Minor non-conformity: Total of minor non-conformities
+Major non-conformity: Total of major non-conformities
+Auditor conclusion: Auditor's conclusion
+Vigilance: Points of vigilance during next audit
+Complementary audit: Complementary audit
+Recommendations: Recommendations
+Auditor opinion: Auditor's opinion
+Officer opinion: Certification officer opinion
+Choose option: Choose an option
+Positive: Positive opinion. Attention, only the products present on the certificate can be sold with the label
+Favourable: Favourable opinion subject to corrective actions listed in the CAPA Report (major nonconformity)
+Unfavourable: Unfavourable opinion.
+Attachment: Is there any attachment
+Attachment details: Attachment(s) details
+Recommended: Recommanded
+Not recommended: Not recommanded
+
+# Finalization
+f.AUDIT_ID:
+f.COMPANY_NAME:          The company name is not filled in.
+f.CLIENT_NB:             The customer number is not filled in.
+f.HEAD_OFFICE:          The head office is not filled in.
+f.AUDITED_SITE:         The audited sites are not filled in.
+f.CONTROLLED_ACTIVITY: The controlled activities are not filled in.
+f.STRUCTURE_ID:         The type of structure is not indicated.
+f.SUBCONTRACTING_ID:    The type of subcontracting is not indicated.
+f.CONTROL_TYPE_ID:      The type of control is not filled in.
+f.CO_AUDITOR:
+f.AUDITOR_CONCLUSION:   The conclusion of the auditor is not filled in.
+f.RISKNOTATION_ID:
+f.VIGILANCE:
+f.RECOMMENDATION:
+f.COMPLEMENTARY_AUDIT:
+f.UNANNOUNCED_CONTROL:
+f.ATTACHMENT:
+f.ATTACHMENT_DETAILS:
+f.STATUS_ID:
+f.ADMIN:
+f.AUDITOR:
+f.dates:                The audit dates are not filled in.
+f.activity:             No information on the activity is given.
+f.total_time:           The audit time is 0h00.
+f.participants:         No participant is filled in.
+f.AUDITOR_OPINION:      The auditor's opinion is not filled in.
+f.ADMIN_OPINION:
+f.Count:                mandatory field(s) not filled in.
+
+cdn:
+
+Finalize message: Before clicking on "Finalize", please make sure that you have filled in all the information as you wish to send it to the Certification Manager. After the Finalization, you will not be able to modify the report. The submission will be final.

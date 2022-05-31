@@ -1,0 +1,11 @@
+.col-0-5 {
+    flex: 0 0 auto;
+    width: 4.2%;
+    padding-right: 1%;
+}
+
+.col-1-5 {
+    flex: 0 0 auto;
+    width: 12.33333333%;
+    padding-right: 1%;
+}

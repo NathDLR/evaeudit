@@ -1,0 +1,40 @@
+body{
+    scroll-behavior: smooth !important;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.nav-link {
+    padding-bottom: 0px;
+}
+
+.participant{
+    padding: 0px !important;
+}
+
+input[type=checkbox]:focus{
+    box-shadow: none;
+}
+
+.bg-login-image{
+    background: url('/audit-admin/public/img/corgi2.png') !important;
+    background-size: cover !important;
+}
+
+.hidden{
+    display: none;
+    overflow: hidden;
+    cursor: not-allowed;
+}
+
+.sidebarActive {
+    color: white !important;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.toolbar {
+    float: left;
+}

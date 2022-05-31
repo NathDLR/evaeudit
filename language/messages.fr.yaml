@@ -1,0 +1,267 @@
+# A trier
+
+Audit report: Rapport d'audit
+Version: Version
+Confidential document: Document confidentiel au
+Situation: Situation
+Corrective action: Action corrective
+Additional comment: Commentaire additionel
+Schedule: Horaires
+No comment: Aucun commentaire
+Yes: Oui
+No: Non
+Creation date: Date de création
+Sending date: Date d'envoi
+AR: RA
+Ready to leave: Prêt(e) à partir
+Logout text: Sélectionnez "Déconnexion" ci-dessous si vous êtes prêts à terminer votre session.
+Cancel: Annuler
+Risk info : "Information : Le niveau de cotation obtenu, quel qu'il soit, ne constitue pas un refus de certification."
+Username: Identifiant
+Status: Statut
+Evaluation method: Méthode d'évaluation
+Comment: Commentaire
+Correction: Correction
+Supplement: Supplement
+History: Historique
+Limit date: Date butoir
+First generation: Première génération
+Problem already encountered: Problème qui a déjà fait l'objet d'une demande
+Click here: Cliquez-ici
+CAPA sheet: Fiche CAPA
+Change status: Changer le statut
+Risk notation: Notation des risques
+No details: Aucun détail
+Page: Page
+Archived reports: Rapports archivés
+See report: Voir le rapport
+Assigned audit : Un audit vous a été assigné
+Audit sent: Un audit vous à été envoyé
+CAPA of ref: Fiche CAPA de la référence
+Identification: Identification
+Evaluation date: Date d'évaluation
+Major non-conformity list: Liste des non-conformités majeures nécessitant une action corrective obligatoire
+Type: Type
+Grid ref: Référence de la grille
+Criterion: Critère
+Obtained result: Résultat obtenu
+Due date: Date limite prévue
+Operator return: Retour de l'opérateur
+Return date: Date de retour
+Manager: Nom du responsable
+Eve liberation: Libération par EVE
+Eve exam: Examen par eve
+Download: Télécharger
+Completion: "Champs restants à remplir : "
+Report creation: Création de rapport
+Audit order: BON DE COMMANDE
+Order Form: Bons de commande
+Contact: Contact
+
+# Order
+
+Command date: Date de commande
+Prestation type: Type de prestation
+Certification type: Type de certification
+Head office address: Addresse du siège social
+Client name: Nom du client
+Site to audit: Lieu de fabrication à auditer
+Scope: Champ(s) d'application
+Audit duration: Temps d'audit prévu
+Expected report: Rapport(s) attendu(s)
+Requested period: Période demandée
+EVE officer: Chargé de certification EVE
+
+# Connexion
+
+Welcome: Bienvenue !
+Online Audit: EVE VEGAN® - Rapport d'audit en ligne
+Enter username: Entrez votre identifiant
+Enter password: Entrez votre mot de passe
+Login: Connexion
+Logout: Déconnexion
+
+# Footer
+
+EVE: EXPERTISE VEGANE EUROPE
+Legals: Tous droits réservés | Mentions légales
+
+# 404Horas
+
+Page not found: Page introuvable
+
+# Sidebar commune
+
+Home: Accueil
+
+# Sidebar auditeur
+
+Create report: Créer un rapport
+
+# Sidebar admin
+
+Manage users: Gérer les utilisateurs
+Manage auditors: Gérer les auditeurs
+Assign report: Assigner un rapport
+Create auditor: Créer un auditeur
+
+# Sidebar audit
+Ongoing report: Rapport en cours
+
+Intro: Introduction
+Risk rating: Cotation des risques
+Audit grid: Grille d'audit
+Conclusion: Conclusion
+Finalize report: Finaliser le rapport
+Finalize: Finaliser
+Finalization: Finalisation
+
+# Accueil admin
+
+My reports: Mes rapports
+
+# Accueil auditeur
+
+Ongoing reports: Rapports en cours
+Sent reports: Rapports envoyés
+
+# Liste des audits
+
+Details: Détails
+Edit: Éditer
+Delivered by auditor: Délivré par l'auditeur
+Under review: En cours de revue
+Non conformity: Non-conformité
+Closed: Clôturé
+Archived: Archivé
+
+# Commun a toutes les étapes de l'audit
+
+Save: Sauvegarder
+Next: Suivant
+Previous: Précédent
+
+# Introduction
+
+Client number: N° de client
+Company name: Nom de la société
+Head office: Siège social
+Audited sites: Site(s) audité(s)
+Date: Date
+Starting hour: Heure de début de l'audit
+End hour: Heure de fin de l'audit
+Total time: Durée totale
+Service: Prestation
+Standard: Certification selon le standard EVE VEGAN®
+Controlled activities: Activité(s) soumise(s) au contrôle
+
+Structure: Type d'activité
+Select structure: Sélectionnez un type de structure
+Vegan activity: Activité 100% VEGAN
+Mixed activity: Activité mixte
+
+Outsourcing: Sous-traitance
+Select outsourcing: Sélectionnez un type de sous-traitance
+Uses subcontracting:  Fais appel a des façonniers
+Works as subcontractor: Travaille en tant que façonnier
+Not concerned: Non concerné
+
+Audit type: Type de contrôle
+Select audit type: Sélectionnez un type de contrôle
+With appointment: Avec rendez-vous
+Without appointment: Sans rendez-vous
+Initial check: Contrôle initial
+Renewal audit:  Audit de renouvellement
+Unannounced check: Contrôle inopiné
+
+Auditor: Auditeur
+Auditors: Auditeur(s)
+Co-auditor: Co-auditeur(s)
+Certification officer: Chargé de certification
+Participants: Participants
+Name: Nom
+Firstname: Prénom
+Function: Fonction
+Opening meeting: Réunion d'ouverture
+Document review: Évaluation documentaire
+Field inspection: Inspection de terrain
+Closing meeting: Réunion de clôture
+Audit order ref: Commande-audit
+
+# Cotation des risques
+
+Ref: Réf.
+Production conditions: Conditions de production
+Result: Résultat
+Note: Note
+Contamination: Contamination croisée possible avec…
+Auditor comment: Commentaire de l'auditeur
+Low risk: Risque faible
+Minor danger: Danger mineur
+Moderate danger: Danger modéré
+Priority risk: Danger prioritaire
+Total: Total
+
+# Grille d'audit
+
+Requirements: Exigence
+Scoring method: Méthode d'évaluation
+Major: Majeur
+Score: Note
+Pts: Pts
+
+#Conclusion
+
+Audit total: Total de l'audit
+Scoring rate: Taux global
+Minor non-conformity: Nombre de non-conformité Mineures
+Major non-conformity: Nombre de non-conformité Majeures
+Auditor conclusion: Conclusion de l'auditeur
+Vigilance: Points de vigilance lors du prochain audit
+Complementary audit: Audit complémentaire
+Recommendations: Recommandations
+Auditor opinion: Avis de l'auditeur
+Officer opinion: Avis du chargé de certification
+Choose option: Choisissez une option
+Positive: Avis favorable. Attention, seuls les produits présents sur le certificat peuvent être vendus avec le label.
+Favourable: Avis favorable sous réserve d'actions correctives listées dans la fiche de non-conformité CAPA.
+Unfavourable: Avis défavorable.
+Attachment: Y-a-t'il des pièces jointes
+Attachment details: Détails des pièces jointes
+Recommended: Recommandé
+Not recommended: Non recommandé
+
+# Finalisation
+
+f.AUDIT_ID:
+f.COMPANY_NAME:          Le nom de l'entreprise n'est pas renseigné
+f.CLIENT_NB:             Le numéro de client n'est pas renseigné
+f.HEAD_OFFICE:          Le siège social n'est pas renseigné
+f.AUDITED_SITE:         Les sites audités ne sont pas renseignés
+f.CONTROLLED_ACTIVITY: Les activités contrôlées ne sont pas renseignées
+f.STRUCTURE_ID:         Le type de structure n'est pas renseigné
+f.SUBCONTRACTING_ID:    Le type de sous-traitance n'est pas renseigné
+f.CONTROL_TYPE_ID:      Le type de contrôle n'est pas renseigné
+f.CO_AUDITOR:
+f.AUDITOR_CONCLUSION:   La conclusion de l'auditeur n'est pas renseignée
+f.RISKNOTATION_ID:
+f.VIGILANCE:
+f.RECOMMENDATION:
+f.COMPLEMENTARY_AUDIT:
+f.UNANNOUNCED_CONTROL:
+f.ATTACHMENT:
+f.ATTACHMENT_DETAILS:
+f.STATUS_ID:
+f.ADMIN:
+f.AUDITOR:
+f.dates:                Les dates d'audit ne sont pas renseignées
+f.activity:             Aucun renseignement sur l'activité n'est renseigné
+f.total_time:           Le temps d'audit est de 0h00
+f.participants:         Aucun participant n'est renseigné
+f.AUDITOR_OPINION:      L'opinion de l'auditeur n'est pas renseignée
+f.ADMIN_OPINION:
+f.Count:                champs obligatoire(s) non renseigné(s).
+
+cdn: //cdn.datatables.net/plug-ins/1.11.4/i18n/fr_fr.json
+
+Finalize message: Avant de cliquer sur "Finaliser", veuillez être certain d'avoir renseigné toutes les informations telles que vous souhaitez les transmettre au Chargé de Certification. Après la Finalisation, vous ne pourrez plus modifier le rapport. L'envoi sera définitif.
